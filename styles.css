@@ -1,0 +1,22 @@
+.header{
+    color: blue;
+    background-color: lightgrey;
+    text-align: center;
+}
+.page-title{
+    margin: 15px;
+    padding: 15px;
+}
+.donate{
+    background-color: pink;
+    text-align: center;
+}
+
+.pictures{ 
+    display: flex;
+    justify-content: space-around;
+}
+.pictures > img {
+    width:200px;
+    height: auto;
+}
